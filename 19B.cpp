@@ -38,9 +38,7 @@ int32_t main () {
         res += a[target.size()];
     }
 
-    cout << res << endl;
-
-    
+    cout << res << endl;    
     return 0;
 }
 
